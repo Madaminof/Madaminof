@@ -8,6 +8,9 @@
 - 📫 Menga bog‘lanish: [madaminovsamandar51@gmail.com yoki https://telegram.org/sames_21]
 - ⚡ Qiziqishlarim: Open Source, AI, DevOps
 
+## 👋 Assalomu alaykum, Xush kelibsiz!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+AIogram)](https://git.io/typing-svg)
 
 ### 🔥 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Madaminof&color=blue&style=flat)
