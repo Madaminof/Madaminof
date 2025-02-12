@@ -15,8 +15,6 @@
 ### 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn)
-### ⏳ Scrolling Text
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=dark)
