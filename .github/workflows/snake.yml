@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har kuni yaratiladi
+    - cron: "0 0 * * *"  # Har kuni kechasi soat 00:00 da ishlaydi
   workflow_dispatch:
 
 jobs:
@@ -27,4 +27,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
