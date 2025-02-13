@@ -2,8 +2,8 @@
 
 🚀 Backend Developer | Python | Django | FastAPI | PostgreSQL
 
-- 🔭 Hozirda [loyiha nomi] ustida ishlayapman.
-- 🌱 Hozirda [texnologiyalar] o‘rganayapman.
+- 🔭 Hozirda [AI] ustida ishlayapman.
+- 🌱 Hozirda [Python,Django,AI] o‘rganayapman.
 - 👯 Hamkorlik qilishga tayyorman.
 - 📫 Menga bog‘lanish: [madaminovsamandar51@gmail.com yoki https://telegram.org/sames_21]
 - ⚡ Qiziqishlarim: Open Source, AI, DevOps
