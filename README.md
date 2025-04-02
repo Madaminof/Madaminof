@@ -6,20 +6,20 @@
 
 ---
 
-## 🚀 Backend Developer | Python | Django | FastAPI | PostgreSQL
+## 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase
 
-- 🔭 Hozirda **AI** ustida ishlayapman.
-- 🌱 Hozirda **Python, Django, AI** o‘rganayapman.
+- 🔭 Hozirda **Android dasturlash** ustida ishlayapman.
+- 🌱 Hozirda **Kotlin, Jetpack Compose, Firebase** o‘rganayapman.
 - 👯 **Hamkorlik qilishga tayyorman.**
 - 📫 Menga bog‘lanish:  
   📧 **madaminovsamandar51@gmail.com**  
   🔗 **[Telegram](https://telegram.org/sames_21)**
-- ⚡ Qiziqishlarim: **Open Source, AI, DevOps**
+- ⚡ Qiziqishlarim: **Open Source, AI, Mobile Development**
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+AIogram;PostgreSQL+%7C+Redis+%7C+Celery" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;MVVM+%7C+Room+Database+%7C+Retrofit" />
 </p>
 
 ---
@@ -41,9 +41,9 @@
 
 ## 🛠 **Mening Texnologiyalarim**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-b
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Room%20Database-0078D7?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit-ff8c00?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
