@@ -1,30 +1,41 @@
 <h1 align="center">👋 Assalomu alaykum, Xush kelibsiz!</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;Open+Source+Lover+%F0%9F%A4%93;Always+Learning+Something+New+%F0%9F%92%AB" />
 </p>
-
----
-
-## 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase
-
-- 🔭 Hozirda **Android dasturlash** ustida ishlayapman.
-- 🌱 Hozirda **Kotlin, Jetpack Compose, Firebase** o‘rganayapman.
-- 👯 **Hamkorlik qilishga tayyorman.**
-- 📫 Menga bog‘lanish:  
-  📧 **madaminovsamandar51@gmail.com**  
-  🔗 **[Telegram](https://telegram.org/sames_21)**
-- ⚡ Qiziqishlarim: **Open Source, AI, Mobile Development**
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;MVVM+%7C+Room+Database+%7C+Retrofit" />
+  <img src="https://komarev.com/ghpvc/?username=Madaminof&label=Profile%20views&color=0e75b6&style=flat" alt="Madaminof" />
 </p>
 
 ---
 
-## 🌍 **Mening profillarim**
+## ✨ Men haqimda
+
+🎓 Android dasturlash bilan shug'ullanuvchi, Kotlin va Jetpack Compose'da ishlaydigan developer.  
+🚀 Har doim yangi texnologiyalarni o‘rganishga va open-source loyihalarda ishtirok etishga tayyorman.  
+📍 Hozirda **Firebase, MVVM, Room Database** texnologiyalari ustida ishlayapman.
+
+---
+
+## 🛠 Texnologiyalar va Asboblar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github&theme=light" />
+</p>
+
+---
+
+## 🔗 Aloqa
+
+- 📧 Email: **madaminovsamandar51@gmail.com**
+- 📱 Telegram: [@sames_21](https://t.me/sames_21)
+- 💼 LinkedIn: [madaminof](https://www.linkedin.com/in/madaminof/)
+
+---
+
+## 🌍 Mening profillarim
+
 <p align="center">
   <a href="https://www.linkedin.com/in/madaminof/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -39,11 +50,19 @@
 
 ---
 
-## 🛠 **Mening Texnologiyalarim**
+## 📈 GitHub Statistikam
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Room%20Database-0078D7?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-ff8c00?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🚀 Pinned Loyihalar
+
+**🔧 Bu bo‘limga faoliyatlaringizdan muhim GitHub repolarni qo‘shishingiz mumkin:**
+
+```markdown
+- 📱 [My Android App](https://github.com/Madaminof/my-android-app) – Jetpack Compose asosida yozilgan mobil ilova.
+- 🔒 [Firebase Auth Demo](https://github.com/Madaminof/firebase-auth-demo) – Firebase orqali autentifikatsiya qilish namunasi.
