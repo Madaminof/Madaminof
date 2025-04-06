@@ -1,68 +1,88 @@
 <h1 align="center">👋 Assalomu alaykum, Xush kelibsiz!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;Open+Source+Lover+%F0%9F%A4%93;Always+Learning+Something+New+%F0%9F%92%AB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madaminof%20GitHub%20Profile&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madaminof&label=Profile%20views&color=0e75b6&style=flat" alt="Madaminof" />
+  <a href="https://github.com/Madaminof">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7BE3B&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;Always+Learning+New+Things+📚" />
+  </a>
 </p>
 
 ---
 
-## ✨ Men haqimda
+## 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase
 
-🎓 Android dasturlash bilan shug'ullanuvchi, Kotlin va Jetpack Compose'da ishlaydigan developer.  
-🚀 Har doim yangi texnologiyalarni o‘rganishga va open-source loyihalarda ishtirok etishga tayyorman.  
-📍 Hozirda **Firebase, MVVM, Room Database** texnologiyalari ustida ishlayapman.
+- 🔭 Hozirda **Android dasturlash** ustida ishlayapman.
+- 🌱 **Kotlin, Jetpack Compose, Firebase** bo‘yicha chuqur bilim olmoqdaman.
+- 👯 **Hamkorlik qilishga ochiqman.**
+- 📫 Bog‘lanish uchun:
+  - 📧 **madaminovsamandar51@gmail.com**
+  - 📱 [Telegram](https://t.me/sames_21)
 
 ---
 
-## 🛠 Texnologiyalar va Asboblar
+## 🧰 Texnologiyalar va vositalar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,sqlite,gradle,vscode" />
 </p>
 
 ---
 
-## 🔗 Aloqa
+## 📊 GitHub Statistika
 
-- 📧 Email: **madaminovsamandar51@gmail.com**
-- 📱 Telegram: [@sames_21](https://t.me/sames_21)
-- 💼 LinkedIn: [madaminof](https://www.linkedin.com/in/madaminof/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=transparent&rank_icon=github&hide=prs" />
+  <img src="https://streak-stats.demolab.com?user=Madaminof&theme=transparent" />
+</p>
 
 ---
 
-## 🌍 Mening profillarim
+## 🏆 GitHub Yutuqlarim
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madaminof&theme=gruvbox&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Profil va Portfolio
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madaminof/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/madaminov/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://t.me/sames_21">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/Madaminof" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:madaminovsamandar51@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Madaminof">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Statistikam
+## 🧠 Qiziqishlar
+
+- 🔬 Sun’iy intellekt va mashinaviy o‘rganish
+- 📱 Mobil ilovalar dizayni va arxitekturasi
+- 🤝 Open Source loyihalarda ishtirok etish
+
+---
+
+## 💡 Random hazil (Developer Meme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=radical" />
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
 </p>
 
 ---
 
-## 🚀 Pinned Loyihalar
-
-**🔧 Bu bo‘limga faoliyatlaringizdan muhim GitHub repolarni qo‘shishingiz mumkin:**
-
-```markdown
-- 📱 [My Android App](https://github.com/Madaminof/my-android-app) – Jetpack Compose asosida yozilgan mobil ilova.
-- 🔒 [Firebase Auth Demo](https://github.com/Madaminof/firebase-auth-demo) – Firebase orqali autentifikatsiya qilish namunasi.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</p>
