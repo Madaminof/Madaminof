@@ -74,11 +74,10 @@
 - 🤝 Open Source loyihalarda ishtirok etish
 
 ---
-
 ## 💡 Random hazil (Developer Meme)
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+  <img src="https://i.imgur.com/jlWqC7B.png" width="500px"/>
 </p>
 
 ---
