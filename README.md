@@ -12,10 +12,10 @@
 
 ---
 
-## 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase
+## 🚀 Android Developer | Kotlin | Jetpack Compose | Room/Retrofit
 
 - 🔭 Hozirda **Android dasturlash** ustida ishlayapman.
-- 🌱 **Kotlin, Jetpack Compose, Firebase** bo‘yicha chuqur bilim olmoqdaman.
+- 👨🏻‍💻 **Kotlin, Jetpack Compose, MVVM, Room, Retrofit ** bo‘yicha chuqur bilim olmoqdaman.
 - 👯 **Hamkorlik qilishga ochiqman.**
 - 📫 Bog‘lanish uchun:
   - 📧 **madaminovsamandar51@gmail.com**
@@ -69,7 +69,7 @@
 
 ## 🧠 Qiziqishlar
 
-- 🔬 Sun’iy intellekt va mashinaviy o‘rganish
+- 🔬 Sun’iy intellekt va APP yaratish
 - 📱 Mobil ilovalar dizayni va arxitekturasi
 - 🤝 Open Source loyihalarda ishtirok etish
 
