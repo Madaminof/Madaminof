@@ -23,15 +23,47 @@
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Tools (Interactive Cards)
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=kotlin,java,xml" height="30" style="margin:5px;"/>
+<p align="center">
 
-### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,firebase,sqlite,vscode" height="30" style="margin:5px;"/>
+<a href="#" title="Kotlin">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Kotlin&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="Java">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Java&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="XML">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=XML&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="Android Studio">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Android%20Studio&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#" title="Git">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Git&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="Firebase">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Firebase&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+<a href="#" title="Gradle & SQLite & VSCode">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Tools&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+</a>
+
+</p>
+
+<p align="center">
+<sub>💡 Har bir skill “card” shaklida gradient background va subtle shadow bilan yaratilgan. FadeIn animatsiya GitHub limitlariga mos.</sub>
+</p>
 
 </div>
 
