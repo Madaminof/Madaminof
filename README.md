@@ -15,55 +15,54 @@
 
 <div align="center">
 
-| 🔭 Current Work | 👨🏻‍💻 Skills Focus | 👯 Collaboration | 📫 Contact |
-|----------------|-----------------|-----------------|------------|
-| Android development | Kotlin, Jetpack Compose, MVVM, Room, Retrofit | Open to collaboration | [Email](mailto:madaminovsamandar51@gmail.com) <br> [Telegram](https://t.me/sames_21) |
+<table>
+<tr>
+  <!-- Current Work Card -->
+  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FFDEE9, #B5FFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+    <h4>🔭 Current Work</h4>
+    <p>Android development<br>Building modern Android apps with Kotlin & Jetpack Compose</p>
+  </td>
+
+  <!-- Skills Focus Card -->
+  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FBD3E9, #BBFFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+    <h4>👨🏻‍💻 Skills Focus</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> Kotlin<br>
+      <img src="https://skillicons.dev/icons?i=compose" height="20" /> Jetpack Compose<br>
+      MVVM, Room, Retrofit
+    </p>
+  </td>
+
+  <!-- Collaboration Card -->
+  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #E0C3FC, #8EC5FC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+    <h4>👯 Collaboration</h4>
+    <p>Open to collaboration on Android projects<br>and Open Source contributions</p>
+  </td>
+
+  <!-- Contact Card -->
+  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FFEEE4, #D4FFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+    <h4>📫 Contact</h4>
+    <p>
+      <a href="mailto:madaminovsamandar51@gmail.com">✉️ Email</a><br>
+      <a href="https://t.me/sames_21">💬 Telegram</a>
+    </p>
+  </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠 Skills & Tools (Interactive Cards)
+## 🛠 Skills & Tools (Interactive Badges)
 
 <div align="center">
 
-<p align="center">
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=kotlin,java,xml" height="30" style="margin:5px;"/>
 
-<a href="#" title="Kotlin">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Kotlin&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="Java">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Java&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="XML">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=XML&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="Android Studio">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Android%20Studio&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="#" title="Git">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Git&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="GitHub">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="Firebase">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Firebase&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-<a href="#" title="Gradle & SQLite & VSCode">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Tools&fontSize=24&animation=fadeIn" style="margin:5px; border-radius:12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
-</a>
-
-</p>
-
-<p align="center">
-<sub>💡 Har bir skill “card” shaklida gradient background va subtle shadow bilan yaratilgan. FadeIn animatsiya GitHub limitlariga mos.</sub>
-</p>
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,firebase,sqlite,vscode" height="30" style="margin:5px;"/>
 
 </div>
 
