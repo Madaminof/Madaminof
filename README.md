@@ -17,30 +17,30 @@
 
 <table>
 <tr>
-  <!-- Current Work Card -->
-  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FFDEE9, #B5FFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+  <!-- Current Work -->
+  <td align="center" style="padding:12px; border-radius:10px; background:linear-gradient(135deg,#FFDEE9,#B5FFFC); box-shadow:2px 2px 10px rgba(0,0,0,0.15); max-width:200px;">
     <h4>🔭 Current Work</h4>
-    <p>Android development<br>Building modern Android apps with Kotlin & Jetpack Compose</p>
+    <p>Android Development<br>Creating modern apps using Kotlin & Jetpack Compose</p>
   </td>
 
-  <!-- Skills Focus Card -->
-  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FBD3E9, #BBFFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+  <!-- Skills Focus -->
+  <td align="center" style="padding:12px; border-radius:10px; background:linear-gradient(135deg,#FBD3E9,#BBFFFC); box-shadow:2px 2px 10px rgba(0,0,0,0.15); max-width:200px;">
     <h4>👨🏻‍💻 Skills Focus</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> Kotlin<br>
-      <img src="https://skillicons.dev/icons?i=compose" height="20" /> Jetpack Compose<br>
+      <img src="https://skillicons.dev/icons?i=kotlin" height="20"/> Kotlin<br>
+      <img src="https://skillicons.dev/icons?i=compose" height="20"/> Jetpack Compose<br>
       MVVM, Room, Retrofit
     </p>
   </td>
 
-  <!-- Collaboration Card -->
-  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #E0C3FC, #8EC5FC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+  <!-- Collaboration -->
+  <td align="center" style="padding:12px; border-radius:10px; background:linear-gradient(135deg,#E0C3FC,#8EC5FC); box-shadow:2px 2px 10px rgba(0,0,0,0.15); max-width:200px;">
     <h4>👯 Collaboration</h4>
-    <p>Open to collaboration on Android projects<br>and Open Source contributions</p>
+    <p>Open to work on Android projects<br>and contribute to Open Source</p>
   </td>
 
-  <!-- Contact Card -->
-  <td align="center" style="padding:15px; border-radius:12px; background:linear-gradient(135deg, #FFEEE4, #D4FFFC); box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+  <!-- Contact -->
+  <td align="center" style="padding:12px; border-radius:10px; background:linear-gradient(135deg,#FFEEE4,#D4FFFC); box-shadow:2px 2px 10px rgba(0,0,0,0.15); max-width:200px;">
     <h4>📫 Contact</h4>
     <p>
       <a href="mailto:madaminovsamandar51@gmail.com">✉️ Email</a><br>
@@ -51,6 +51,7 @@
 </table>
 
 </div>
+
 
 ---
 
