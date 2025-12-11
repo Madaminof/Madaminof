@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/Madaminof">
-  <img src="https://github-readme-stats.vercel.app/api/title?username=Madaminof&title_color=FFFFFF&text_color=00D4FF&bg_color=1F222E&icon_color=00D4FF&border_color=00D4FF&show_icons=true&rank_icon=github&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/title?username=Madaminof&title_color=FFFFFF&text_color=FF9800&bg_color=1F222E&icon_color=FF9800&border_color=FF9800&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
 
 <h1 align="center">👋 Hello, Welcome!</h1>
 <h3 align="center">Samandar Madaminov | Android Developer | Kotlin & Jetpack Compose</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Founder;Kotlin+%7C+Jetpack+Compose+%7C+MVI+Architecture;Building+Wallet+Analyts+Startup+🚀;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Founder;Kotlin+%7C+Jetpack+Compose+%7C+MVI+Architecture;Building+Wallet+Analyts+Startup+🚀;Let's+Connect+and+Collaborate!" />
 </p>
 
 </div>
@@ -24,12 +24,9 @@
 
 > **Wallet Analyts** is a modern Android application designed for **visual financial analysis** and **easy expense tracking**. Our goal is to enhance user financial stability through an intuitive and robust interface.
 
-<div align="center">
-  </div>
-
 ---
 
-## 🎯 Focus & Expertise
+## 🎯 Focus & Expertise (Core Competencies)
 
 <div align="center">
 
@@ -42,24 +39,24 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools (Skills Showcase)
 
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin,java,compose,xml&theme=dark" height="40" alt="Kotlin, Java, Jetpack Compose, XML" style="margin:5px;"/></a>
+<img src="https://skillicons.dev/icons?i=kotlin,java,compose,xml&theme=dark" height="40" alt="Kotlin, Java, Jetpack Compose, XML" style="margin:5px;"/>
 
 ### ⚙️ Data & Services
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb&theme=dark" height="40" alt="Firebase, SQLite, MongoDB" style="margin:5px;"/></a>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb&theme=dark" height="40" alt="Firebase, SQLite, MongoDB" style="margin:5px;"/>
 
 ### 🚀 Tools & Workflow
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,vscode,figma&theme=dark" height="40" alt="Android Studio, Gradle, Git, GitHub, VS Code, Figma" style="margin:5px;"/></a>
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,vscode,figma&theme=dark" height="40" alt="Android Studio, Gradle, Git, GitHub, VS Code, Figma" style="margin:5px;"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics (Vercel APIs)
 
 <div align="center">
 
@@ -67,17 +64,15 @@
 <img src="https://streak-stats.demolab.com?user=Madaminof&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" style="margin:5px;"/>
 
 <br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Madaminof&theme=gruvbox&no-bg=true&margin-w=10" height="140" style="margin:5px;"/>
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me (Socials)
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/madaminof/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -96,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Madaminof.Madaminof&style=for-the-badge&color=00D4FF" alt="Visitor Count"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Madaminof.Madaminof&style=for-the-badge&color=FF9800" alt="Visitor Count"/>
 </p>
