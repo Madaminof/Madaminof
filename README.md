@@ -81,22 +81,6 @@
   
 </div>
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=1F222E" height="180" style="margin:5px;"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Madaminof&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=00D4FF&ring=FF9800" height="180" style="margin:5px;"/>
-  
-  <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Madaminof&theme=gruvbox&no-bg=true&margin-w=10" height="140" style="margin:5px;"/>
-</div>
-
----
-
 ## 🌐 Connect with Me (Socials)
 
 <p align="center">
@@ -113,10 +97,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Madaminof.Madaminof&style=for-the-badge&color=FF9800" alt="Visitor Count"/>
 </p>
