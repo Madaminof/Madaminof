@@ -1,65 +1,65 @@
 <div align="center">
 
 <a href="https://github.com/Madaminof">
-  <img src="https://github-readme-stats.vercel.app/api/title?username=Madaminof&title_color=FFFFFF&text_color=FF9800&bg_color=1F222E&icon_color=FF9800&border_color=FF9800&show_icons=true&rank_icon=github&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/title?username=Madaminof&title_color=FFFFFF&text_color=00D4FF&bg_color=1F222E&icon_color=00D4FF&border_color=00D4FF&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
 
-<h1 align="center">👋 Assalomu alaykum, Xush kelibsiz!</h1>
+<h1 align="center">👋 Hello, Welcome!</h1>
 <h3 align="center">Samandar Madaminov | Android Developer | Kotlin & Jetpack Compose</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MVI+Architecture;Building+My+Own+Startup+🚀;Let%27s+Connect+and+Collaborate!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Founder;Kotlin+%7C+Jetpack+Compose+%7C+MVI+Architecture;Building+Wallet+Analyts+Startup+🚀;Always+Learning+New+Things" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 Asosiy Faoliyat va Yo'nalishlar
-
-<div align="center">
-
-| 🧑‍💻 Rivojlanish | 🛠 Texnologiya Fokus | 💡 Yangi Loyihalar | 📞 Aloqa |
-| :---: | :---: | :---: | :---: |
-| Android Development | Kotlin & Jetpack Compose | **Wallet Analyts** (Startup) | <a href="https://t.me/sames_21">Telegram</a> |
-| MVVM / MVI Arxitektura | Room, Retrofit, Coroutines | Open Source Contributor | <a href="mailto:madaminovsamandar51@gmail.com">Email</a> |
-
-</div>
-
----
-
-## 🚀 Maxsus Loyiha: Wallet Analyts (Expense Tracker)
+## 🚀 Featured Project: Wallet Analyts (Expense Tracker)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Compose%20|%20MVI%20|%20Room-FFC107?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Stack-Compose%20|%20MVI%20|%20Room-FF9800?style=for-the-badge&logo=kotlin" />
 </p>
 
-> **Wallet Analyts** — bu shaxsiy moliyani vizual tahlil qilish va xarajatlarni oson kuzatish uchun mo'ljallangan zamonaviy Android ilovasi. Biz foydalanuvchilarning moliyaviy barqarorligini intuitiv interfeys yordamida oshirishni maqsad qilganmiz.
+> **Wallet Analyts** is a modern Android application designed for **visual financial analysis** and **easy expense tracking**. Our goal is to enhance user financial stability through an intuitive and robust interface.
 
 <div align="center">
   </div>
 
 ---
 
-## 🛠 Texnologiyalar Paneli (Tech Stack)
+## 🎯 Focus & Expertise
 
 <div align="center">
 
-### 💻 Tillar & Frameworklar
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin,java,compose,xml&theme=dark" height="40" alt="Kotlin, Java, Jetpack Compose, XML" style="margin:5px;"/></a>
-
-### ⚙️ Backend & Ma'lumotlar Bilan Ishlash
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb&theme=dark" height="40" alt="Firebase, SQLite, MongoDB" style="margin:5px;"/></a>
-
-### 🚀 Asboblar & Arxitektura
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,vscode,figma&theme=dark" height="40" alt="Android Studio, Gradle, Git, GitHub, Figma" style="margin:5px;"/></a>
+| 🧑‍💻 Primary Role | 🛠 Core Technologies | 💡 Key Interests | 🤝 Collaboration |
+| :---: | :---: | :---: | :---: |
+| **Android Development** | Kotlin & Jetpack Compose | Startup Ecosystem & Product Design | Open to Mobile App Collaborations |
+| Architecture: MVVM / MVI | Room, Retrofit, Coroutines | UI/UX & Design Systems | <a href="https://t.me/sames_21">💬 Telegram</a> |
 
 </div>
 
 ---
 
-## 📈 GitHub Faoliyati
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin,java,compose,xml&theme=dark" height="40" alt="Kotlin, Java, Jetpack Compose, XML" style="margin:5px;"/></a>
+
+### ⚙️ Data & Services
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb&theme=dark" height="40" alt="Firebase, SQLite, MongoDB" style="margin:5px;"/></a>
+
+### 🚀 Tools & Workflow
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,vscode,figma&theme=dark" height="40" alt="Android Studio, Gradle, Git, GitHub, VS Code, Figma" style="margin:5px;"/></a>
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🌐 Murojaat va Ijtimoiy Tarmoqlar
+## 🌐 Connect with Me
 
 <p align="center">
 
@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Madaminof.Madaminof&style=for-the-badge&color=FF9800" alt="Visitor Count"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Madaminof.Madaminof&style=for-the-badge&color=00D4FF" alt="Visitor Count"/>
 </p>
