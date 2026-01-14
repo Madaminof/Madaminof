@@ -43,7 +43,7 @@
 | Project | Tech Stack | Status | Link |
 | :--- | :--- | :---: | :---: |
 | **Wallet Analyts** | Compose, MVI, Hilt, Room | Beta | [View Repo](https://github.com/Madaminof/WalletApp) |
-| **NamozApp** | Kotlin, XML, Retrofit, WorkManager | Live | [View Repo](https://github.com/Madaminof/NamozApp) |
+| **NamozApp** | Kotlin, XML, Retrofit, WorkManager | Live | [View Repo](https://github.com/Madaminof/NomozApp) |
 | **Notes App** | MVVM, Room, Coroutines | Completed | [View Repo](https://github.com/Madaminof/NotesApp) |
 
 </div>
