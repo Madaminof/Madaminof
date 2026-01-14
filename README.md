@@ -48,15 +48,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Samandar's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 Men doimo qiziqarli loyihalar va professional hamkorlik uchun ochiqman!
