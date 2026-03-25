@@ -60,7 +60,8 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp&theme=tokyonight&border_radius=10&show_owner=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp
+&theme=tokyonight&border_radius=10&show_owner=true" width="450" />
 </div>
 
 ---
