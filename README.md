@@ -33,16 +33,40 @@
 
 ---
 
-### 🚀 Highlighted Project: [Wallet Analyst](https://github.com/Madaminof/WalletApp)
-> **Modern Financial Intelligence Ecosystem**
-> Built with strict **Clean Architecture** and **MVI** patterns.
+🚀 Featured Startup: Wallet Analyst
 
-- 💎 **Material 3 Dynamic UI** — System-wide personalization.
-- 🏗 **UDF (Unidirectional Data Flow)** — Predictable state management.
-- 📦 **Offline-First** — Robust caching using Room & Flow.
+Advanced Financial Intelligence Ecosystem > Shunchaki xarajatlar nazorati emas, balki shaxsiy moliyaviy tahlilchi.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Architecture-Clean%20%2B%20MVVM-7F52FF?style=for-the-badge&logo=kotlin" />
+<img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose" />
+<img src="https://img.shields.io/badge/Data-Offline--First-3DDC84?style=for-the-badge&logo=android" />
+</p>
+
+💎 Key Innovations & Features
+
+⚡ Rapid Transaction Entry: QR-skaner orqali tranzaksiyalarni bir necha soniyada kiritish tizimi.
+
+📊 Deep Analytics: Murakkab grafiklar (Charts) va chuqur monitoring tizimi orqali moliyaviy o'sish tahlili.
+
+🌐 Global Economy: Ko'p valyutali (Multi-currency) hisoblar va murakkab ayirboshlash logikasi.
+
+🛠 Financial Tools: Shopping List, Split Bill, Budjet va Qarzlar (Debt) boshqaruvi bir joyda.
+
+🎨 Cutting-edge UI: Material 3 asosidagi zamonaviy, dinamik va responsive dizayn.
+
+🏗 Tech Stack & Architecture
+
+Core: Kotlin, Coroutines & Flow (Reactive programming).
+
+Architecture: Clean Architecture + MVVM (UDF implementation).
+
+Local DB: Room Persistence with advanced relations.
+
+UI: Jetpack Compose (Declarative UI) & Custom Canvas Charts.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp&theme=tokyonight" alt="Wallet Analyst Stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp&theme=tokyonight&show_owner=true" width="400" />
 </div>
 
 ---
