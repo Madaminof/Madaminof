@@ -33,40 +33,34 @@
 
 ---
 
-🚀 Featured Startup: Wallet Analyst
+## 💎 Featured Startup: [Wallet Analyst](https://github.com/Madaminof/WalletApp)
+> **Modern Financial Intelligence Ecosystem** — Shunchaki xarajatlar emas, balki moliyaviy barqarorlik tahlilchisi.
 
-Advanced Financial Intelligence Ecosystem > Shunchaki xarajatlar nazorati emas, balki shaxsiy moliyaviy tahlilchi.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Architecture-Clean%20%2B%20MVVM-7F52FF?style=for-the-badge&logo=kotlin" />
-<img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose" />
-<img src="https://img.shields.io/badge/Data-Offline--First-3DDC84?style=for-the-badge&logo=android" />
-</p>
-
-💎 Key Innovations & Features
-
-⚡ Rapid Transaction Entry: QR-skaner orqali tranzaksiyalarni bir necha soniyada kiritish tizimi.
-
-📊 Deep Analytics: Murakkab grafiklar (Charts) va chuqur monitoring tizimi orqali moliyaviy o'sish tahlili.
-
-🌐 Global Economy: Ko'p valyutali (Multi-currency) hisoblar va murakkab ayirboshlash logikasi.
-
-🛠 Financial Tools: Shopping List, Split Bill, Budjet va Qarzlar (Debt) boshqaruvi bir joyda.
-
-🎨 Cutting-edge UI: Material 3 asosidagi zamonaviy, dinamik va responsive dizayn.
-
-🏗 Tech Stack & Architecture
-
-Core: Kotlin, Coroutines & Flow (Reactive programming).
-
-Architecture: Clean Architecture + MVVM (UDF implementation).
-
-Local DB: Room Persistence with advanced relations.
-
-UI: Jetpack Compose (Declarative UI) & Custom Canvas Charts.
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>⚡ Key Features</h4>
+      <ul>
+        <li><b>QR Transaction:</b> Tranzaksiyalarni soniyada kiritish.</li>
+        <li><b>Global Wallet:</b> Multi-currency (ko'p valyutali) murakkab tizim.</li>
+        <li><b>Financial Hub:</b> Split Bill, Shopping List, Debt & Budget management.</li>
+        <li><b>Deep Insights:</b> Dinamik chartlar va chuqur monitoring.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🏗 Engineering</h4>
+      <ul>
+        <li><b>UI/UX:</b> Jetpack Compose & Material 3 (Dynamic Design).</li>
+        <li><b>Architecture:</b> Clean Architecture + MVVM.</li>
+        <li><b>Performance:</b> Room DB + Flow (Offline-First logic).</li>
+        <li><b>Async:</b> Kotlin Coroutines & Advanced Flow patterns.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp&theme=tokyonight&show_owner=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madaminof&repo=WalletApp&theme=tokyonight&border_radius=10&show_owner=true" width="450" />
 </div>
 
 ---
