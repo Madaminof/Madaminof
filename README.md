@@ -80,9 +80,6 @@ I prioritize scalability, testability, and offline-first capabilities using mode
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madaminof&color=7F52FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 ## ✍️ Engineering Philosophy
 
