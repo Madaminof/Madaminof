@@ -61,22 +61,28 @@ I prioritize scalability, testability, and offline-first capabilities using mode
 
 ---
 
-## 📊 Open Source Contributions & GitHub Insights
+## 📊 GitHub Insights & Open Source Activity
 
 <div align="center">
   <a href="https://github.com/Madaminof">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=00D4FF&text_color=A9B1D6" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Madaminof GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Madaminof">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madaminof&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=00D4FF&currStreakLabel=A9B1D6" alt="Streak Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madaminof&theme=tokyonight&hide_border=true&background=0D1117" alt="Madaminof Streak Stats" width="49%" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6" alt="Top Languages" width="60%" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madaminof&color=7F52FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ## ✍️ Engineering Philosophy
 
