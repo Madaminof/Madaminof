@@ -1,85 +1,88 @@
 <div align="center">
 
 # ⚡ Samandar Madaminov
-### **Android Software Engineer | Kotlin & Jetpack Compose Specialist**
+### **Android Software Engineer | System Architecture & UI/UX**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Android+Apps;Expert+in+Kotlin,+Coroutines+&+Flow;Building+Fluid+UIs+with+Jetpack+Compose;Advocate+for+Clean+Code+&+MVI/MVVM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Android+Architectures;Kotlin+Coroutines,+Flow+%26+Dependency+Injection;Crafting+Fluid+UIs+with+Jetpack+Compose;Advocate+for+Clean+Code,+MVI+%26+MVVM" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madaminof/)
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/sames_21)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:madaminovsamandar51@gmail.com)
-[![Articles](https://img.shields.io/badge/Read-My_Articles-000000?style=for-the-badge&logo=medium)](https://www.linkedin.com/in/madaminof/recent-activity/shares/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madaminof/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sames_21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madaminovsamandar51@gmail.com)
+[![Articles](https://img.shields.io/badge/My_Articles-1E1E1E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/madaminof/recent-activity/shares/)
 
-*Crafting robust mobile ecosystems, from digital logistics and mapping systems to modern financial hubs.*
+*Transforming complex business logic into seamless mobile experiences. Specialized in digital logistics, fintech solutions, and modern UI paradigms.*
 
 ---
-
 </div>
 
-## 🛠 Engineering Arsenal
+## 🛠 Tech Stack & Engineering Arsenal
 
-I focus on building resilient, scalable applications using modern Android development practices.
+I prioritize scalability, testability, and offline-first capabilities using modern Android standards.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coroutines_%26_Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dagger_Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-1E1E1E?style=for-the-badge&logo=cleancode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagger_Hilt-000000?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-| Domain | Core Technologies & Patterns |
-| :--- | :--- |
-| **Languages & Core** | `Kotlin`, `Java`, `Coroutines`, `StateFlow/SharedFlow` |
-| **UI & Framework** | `Jetpack Compose`, `Material 3`, `Navigation Component` |
-| **Architecture** | `Clean Architecture`, `MVI`, `MVVM`, `Dependency Injection (Hilt)` |
-| **Data Layer** | `Room DB (Offline-First)`, `Retrofit2`, `REST APIs` |
-| **Engineering Tools** | `Git`, `JUnit4 (TDD/Unit Testing)`, `CI/CD`, `Figma` |
-
----
-
-## 🚀 Featured Projects & Open Source
-
-### 📦 [UzValidator](https://github.com/Madaminof/UzValidator) *(Open Source Library)*
-> **Published on JitPack** — A professional validation library tailored for Uzbekistan's specific standards.
-* **Core Features:** Identifies and validates Uzcard/Humo using the **Luhn algorithm**, strict Regex for telecom operators, and Passport/PINFL verification.
-* **Engineering:** Built with strict TDD (100% Unit Tested), optimized string processing, and seamless `MavenPublication` integration via Gradle.
-
-### 💳 [Wallet Analyst](https://github.com/Madaminof/WalletApp)
-> **Modern Financial Intelligence Ecosystem** — Advanced budget management and tracking.
-* **Core Features:** Multi-currency support, dynamic analytical charts, QR-based transactions, and split-bill functionality.
-* **Engineering:** Completely reactive UI with **Jetpack Compose**, backed by an **Offline-First** architecture using Room DB and complex SQL relations.
-
-### 📍 Logistics & Postal Systems (Uzpost / Delivery Radars)
-> **Digital Transformation in Logistics** — Enterprise-level routing and identity solutions.
-* **Core Features:** Digital ID verification, QR code generation/scanning, automated routing, and location-based radar notification alerts.
-* **Engineering:** Integrated modern mapping solutions, optimized foreground services for real-time tracking, and secured user authentication.
-
----
-
-## 📊 GitHub Insights
-
 <div align="center">
-  <a href="https://github.com/Madaminof">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=00D4FF" alt="Samandar's Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Madaminof">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madaminof&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=00D4FF" alt="Streak Stats" width="48%" />
-  </a>
-</div>
 
-<br/>
+| Architecture & Patterns | Frameworks & UI | Core & Data Layer |
+| :--- | :--- | :--- |
+| **Clean Architecture** | `Jetpack Compose` | `Kotlin Coroutines` |
+| **MVI & MVVM** | `Material Design 3` | `StateFlow / SharedFlow` |
+| **Dependency Injection** | `Navigation Component` | `Room DB (Offline-First)` |
+| **TDD / Unit Testing** | `Custom Views` | `Retrofit2 / REST` |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF" alt="Top Languages" width="400" />
 </div>
 
 ---
 
-## ✍️ My Philosophy
-I believe that exceptional mobile applications sit at the intersection of **fluid user interfaces** and **impeccable system architecture**. Whether I am debating the trade-offs between MVVM and MVI, or structuring a scalable dependency injection tree with Dagger Hilt, my goal remains the same: *Write code that is as predictable as it is beautiful.*
+## 🚀 Featured Engineering Projects
+
+### 📦 [UzValidator](https://github.com/Madaminof/UzValidator) | *Open Source Core Library*
+> **Published on JitPack** • *Kotlin, TDD, Gradle Maven Publication*
+* **The Problem:** Lack of standardized, strictly tested validation tools for local Uzbekistani standards (Telecom, Banking, Identity).
+* **The Solution:** Developed a highly optimized, 100% unit-tested validation engine. Implements the **Luhn algorithm** for Uzcard/Humo, strict Regex for telecom codes, and precise Passport/PINFL verification.
+
+### 💳 [Wallet Analyst](https://github.com/Madaminof/WalletApp) | *Fintech & Budgeting Ecosystem*
+> *Jetpack Compose, MVVM, Room DB, Coroutines*
+* **The Problem:** Users need a fast, offline-capable way to track complex financial splits and global currencies.
+* **The Solution:** Engineered a responsive, reactive UI using Jetpack Compose. Built a robust local database architecture supporting instant QR-based data entry, dynamic charting, and complex split-bill logic without network dependency.
+
+### 📍 Uzpost & Delivery Radars | *Digital Logistics Modernization*
+> *Jetpack Compose, Location Services, Digital ID Verification*
+* **The Problem:** Inefficiencies in "Last Mile" delivery and manual identity verification in postal engineering.
+* **The Solution:** Architected an enterprise-level routing and radar notification system. Integrated modern digital ID verification and QR scanning, strictly aligning the technical infrastructure with national digital logistics and postal modernization workflows.
+
+---
+
+## 📊 Open Source Contributions & GitHub Insights
+
+<div align="center">
+  <a href="https://github.com/Madaminof">
+    <img src="https://github-readme-stats.vercel.app/api?username=Madaminof&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=00D4FF&text_color=A9B1D6" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Madaminof">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madaminof&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=00D4FF&currStreakLabel=A9B1D6" alt="Streak Stats" width="48%" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+## ✍️ Engineering Philosophy
+
+Great mobile applications sit at the intersection of **fluid user interfaces** and **impeccable system architecture**. Whether I am analyzing the exact trade-offs between **MVVM and MVI** for UI state management, writing deep dives on Android development for professional networks, or structuring a scalable dependency injection tree with **Dagger Hilt**, my core mission remains the same: 
+
+> *"Write code that is as predictable and testable under the hood as it is beautiful on the screen."*
 
 <br/>
 
